@@ -7,7 +7,7 @@
 .PARAMETER pst
     The full qualified path to the PST file.
 .EXAMPLE
-    .\PowerCountPsT.ps1 -pst "C:\Temp\outlook.pst"]
+    .\PowerCountPST.ps1 -pst "C:\Temp\outlook.pst"
     This example show how to pass a pst file located in the temp folder to the script.
 .LINK https://github.com/lxndrblz/PowerCountPST/
 .NOTES
