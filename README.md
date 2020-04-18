@@ -1,3 +1,4 @@
+# 🧮 PowerShell PowerCountPST 
 PowerCountPST is a PowerShell Script lets you count the number of elements found in an Outlook PST file. There are no limitations in terms of size and it's blazingly fast. Unlike other solutions, PowerCountPST searches recursively, so no matter how your files PST files are structured, it will always yield back the accurate amount. Once it's done it will unmount the PST file again, which makes it perfect to run in batches. I've successfully used this script in a production scenario with over 2000 PST files ranging from a couple of MB up to 90 GB.
 
 ## Requirements
